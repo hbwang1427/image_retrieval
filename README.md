@@ -13,6 +13,10 @@ Step 3:object recognition         　　　
 
 ## Region detection based
 
+#### What's the best practice for CNNS applied to visual instance retrieval
+
+https://arxiv.org/pdf/1611.01640.pdf
+
 #### Bags of Local Convolutional Features for Scalable Instance Search
 
 intro: ICMR 2016. Best Poster Award at ICMR 2016.   
