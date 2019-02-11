@@ -7,3 +7,8 @@ Step 2:object detection
    try darknet: https://pjreddie.com/darknet/
    
 Step 3:object recognition         　　　
+
+
+# Latest deep models for retrieval
+
+##
