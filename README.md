@@ -11,7 +11,7 @@ Step 3:object recognition         　　　
 
 # Latest deep models for retrieval
 
-##Region detection based
+## Region detection based
 
 ### Bags of Local Convolutional Features for Scalable Instance Search
 
@@ -22,4 +22,4 @@ github: https://github.com/imatge-upc/retrieval-2016-icmr .
 slides: http://www.slideshare.net/xavigiro/convolutional-features-for-instance-search .  
 
 
-##Direct feature based
+## Global image based
